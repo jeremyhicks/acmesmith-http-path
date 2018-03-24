@@ -1,6 +1,6 @@
 $LOAD_PATH.unshift File.expand_path('../../lib', __FILE__)
 require 'simplecov'
-require 'acmesmith-http-path/version'
+require 'acmesmith-script-hooks/version'
 require 'acmesmith/command'
 
 require 'minitest/autorun'

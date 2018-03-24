@@ -1,8 +1,8 @@
-# acmesmith-http-path
+# acmesmith-script-hooks
 
-[![Build Status](https://travis-ci.org/mipmip/acmesmith-http-path.svg?branch=master)](https://travis-ci.org/mipmip/acmesmith-http-path)
-[![Code Climate](https://codeclimate.com/github/mipmip/acmesmith-http-path/badges/gpa.svg)](https://codeclimate.com/github/mipmip/acmesmith-http-path)
-[![Test Coverage](https://codeclimate.com/github/mipmip/acmesmith-http-path/badges/coverage.svg)](https://codeclimate.com/github/mipmip/acmesmith-http-path/coverage)
+[![Build Status](https://travis-ci.org/mipmip/acmesmith-script-hooks.svg?branch=master)](https://travis-ci.org/mipmip/acmesmith-script-hooks)
+[![Code Climate](https://codeclimate.com/github/mipmip/acmesmith-script-hooks/badges/gpa.svg)](https://codeclimate.com/github/mipmip/acmesmith-script-hooks)
+[![Test Coverage](https://codeclimate.com/github/mipmip/acmesmith-script-hooks/badges/coverage.svg)](https://codeclimate.com/github/mipmip/acmesmith-script-hooks/coverage)
 
 This gem is a plugin for [Acmesmith](https://github.com/sorah/acmesmith)
 and implements an automated `http-01` challenge responder.
@@ -63,7 +63,7 @@ To install this gem onto your local machine, run `bundle exec rake install`. To 
 
 ## Contributing
 
-Bug reports and pull requests are welcome on GitHub at https://github.com/[USERNAME]/acmesmith-http-path. This project is intended to be a safe, welcoming space for collaboration, and contributors are expected to adhere to the [Contributor Covenant](http://contributor-covenant.org) code of conduct.
+Bug reports and pull requests are welcome on GitHub at https://github.com/[USERNAME]/acmesmith-script-hooks. This project is intended to be a safe, welcoming space for collaboration, and contributors are expected to adhere to the [Contributor Covenant](http://contributor-covenant.org) code of conduct.
 
 ## License
 

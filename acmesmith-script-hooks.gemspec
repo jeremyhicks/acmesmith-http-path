@@ -1,17 +1,17 @@
 # coding: utf-8
 lib = File.expand_path('../lib', __FILE__)
 $LOAD_PATH.unshift(lib) unless $LOAD_PATH.include?(lib)
-require 'acmesmith-http-path/version'
+require 'acmesmith-script-hooks/version'
 
 Gem::Specification.new do |spec|
-  spec.name          = "acmesmith-http-path"
-  spec.version       = AcmesmithHttpPath::VERSION
-  spec.authors       = ["Pim Snel"]
-  spec.email         = ["pim@lingewoud.nl"]
+  spec.name          = "acmesmith-script-hooks"
+  spec.version       = AcmesmithScriptHooks::VERSION
+  spec.authors       = ["Jeremy Hicks"]
+  spec.email         = [""]
 
   spec.summary       = %q{AcmeSmith ChallengeResponders plugin for validating by http-01}
   spec.description   = %q{AcmeSmith ChallengeResponders plugin for validating with letsencrypt by http-01 on a local machine}
-  spec.homepage      = "https://github.com/mipmip/acmesmith-http-path"
+  spec.homepage      = "https://github.com/mipmip/acmesmith-script-hooks"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files -z`.split("\x0").reject do |f|
